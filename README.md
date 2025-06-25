@@ -29,7 +29,6 @@
 |--------|-----------|
 | [📋 Task Manager - PHP + MySQL](https://github.com/GuilhermeRauzes/task-manager-php-mysql) | Um CRUD de tarefas completo com Bootstrap e banco de dados integrado. Projeto fullstack feito para faculdade. |
 | [📊 Imposto JS](https://github.com/GuilhermeRauzes/gov-benefits-calculator-js) | Calculadora de benefícios e impostos (fictícios) usando apenas HTML, CSS e JavaScript. |
-| [🍉 Fruit Ninja Clone](https://github.com/GuilhermeRauzes/fruit-ninja-clone-jquery) | Joguinho clone do Fruit Ninja feito com jQuery para fins de aprendizado. |
 
 ---
 
@@ -40,11 +39,6 @@ Atualmente seguindo um plano de estudos focado em:
 - Desenvolvimento Web Fullstack (HTML, CSS, JS, React, Node.js, MongoDB, Firebase)
 - Contribuições open source e projetos práticos
 
-📍 Me acompanhe nos repositórios de estudo:
-- [`MeuFullStack`](https://github.com/GuilhermeRauzes/MeuFullStack) *(privado, anotações e testes)*
-- [`planner-fullstack`](https://github.com/GuilhermeRauzes/planner-fullstack) *(em breve)*
-
----
 
 ### 🤝 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rauzes-8a4306255/)
