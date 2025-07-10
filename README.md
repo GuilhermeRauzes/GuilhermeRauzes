@@ -5,7 +5,6 @@
 
 ### 🚀 Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas @ PUCPR (2024–2026)
-- 💼 Estagiário de TI na CSN (SAP)
 - 💻 Experiência com projetos em front-end, back-end e banco de dados
 - 🌍 Buscando minha primeira oportunidade como dev na área de desenvolvimento
 - 📚 Atualmente estudando: JavaScript, Node.js, React, Python e DSA
