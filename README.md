@@ -1,45 +1,32 @@
-<h1 align="center">👋 Olá! Eu sou o Guilherme Rauzes</h1>
-<p align="center">Desenvolvedor Fullstack em formação — focado em evoluir com projetos práticos, boas práticas e aprendizado constante.</p>
+# 👋 Olá! Eu sou o Guilherme Rauzes
 
----
+**Analista de Infraestrutura de TI & Field Service | Entusiasta de Home Labs e DevOps**
+
+Trabalho unindo o melhor dos dois mundos: garanto que a infraestrutura, os equipamentos e as redes funcionem perfeitamente no dia a dia, enquanto desenvolvo ferramentas em código para automatizar processos operacionais.
 
 ### 🚀 Sobre mim
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas @ PUCPR (2024–2026)
-- 💻 Experiência com projetos em front-end, back-end e banco de dados
-- 🌍 Buscando minha primeira oportunidade como dev na área de desenvolvimento
-- 📚 Atualmente estudando: JavaScript, Node.js, React, Python e DSA
 
----
+* 🏢 Atualmente atuando com Infraestrutura de TI e Field Service no Mercado Livre.
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na PUCPR.
+* 🛡️ Foco na resolução de problemas críticos, com certificação técnica em Cybersecurity 3.0.
+* 🖥️ **Home Laber:** Mantenho um laboratório de infraestrutura próprio para testes contínuos de Active Directory, automação via PowerShell e segurança em armazenamento.
 
-### 🧰 Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+### 🧰 Tech Stack e Ferramentas
 
----
+* **Infra & Operações:** Windows Server (AD), PowerShell, Troubleshooting Avançado de Redes/Hardware.
+* **Desenvolvimento & Automação:** Python, Flask, Git/GitHub Actions (CI/CD), Firebase, Bancos de Dados Relacionais.
+* **Bases Web:** JavaScript, HTML, CSS (focados no desenvolvimento de dashboards e ferramentas internas).
 
-### 📌 Projetos em destaque
+### 📌 Projetos em Destaque
 
 | Projeto | Descrição |
-|--------|-----------|
-| [📋 Task Manager - PHP + MySQL](https://github.com/GuilhermeRauzes/task-manager-php-mysql) | Um CRUD de tarefas completo com Bootstrap e banco de dados integrado. Projeto fullstack feito para faculdade. |
-| [📊 Imposto JS](https://github.com/GuilhermeRauzes/gov-benefits-calculator-js) | Calculadora de benefícios e impostos (fictícios) usando apenas HTML, CSS e JavaScript. |
-
----
-
-### 🗂️ Planejamento & Estudos
-
-Atualmente seguindo um plano de estudos focado em:
-- Estrutura de Dados e Algoritmos (DSA)
-- Desenvolvimento Web Fullstack (HTML, CSS, JS, React, Node.js, MongoDB, Firebase)
-- Contribuições open source e projetos práticos
-
+|---|---|
+| 🛡️ **Heimdall Ops** | Sistema completo para geração de relatórios de rondas operacionais, com suporte a anexos, histórico e integração com Firebase e PDFMake. |
+| 🟢 **Downtime Monitor** | Aplicação integrada ao Firebase para rastreamento de quedas de rede e monitoramento de disponibilidade. |
+| 💰 **Cadê a Grana?** | Dashboard financeiro fullstack com autenticação de usuários, gráficos e registro de transações. |
+| 📋 **Dashboard de Inventário** | Sistema desenvolvido em Python + Flask para gestão de equipamentos técnicos (handhelds, impressoras, etc). |
 
 ### 🤝 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rauzes-8a4306255/)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-rauzes)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guirauzes@gmail.com)
