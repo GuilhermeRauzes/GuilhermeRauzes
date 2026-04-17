@@ -9,7 +9,7 @@ Trabalho unindo o melhor dos dois mundos: garanto que a infraestrutura, os equip
 * 🏢 Atualmente atuando com Infraestrutura de TI e Field Service no Mercado Livre.
 * 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na PUCPR.
 ☁️ Foco atual: Estudando para a certificação AZ-104 (Microsoft Azure Administrator) e criando automações em Python para o dia a dia.
-* 🖥️ **Home Laber:** Mantenho um laboratório de infraestrutura próprio para testes contínuos de Active Directory, automação via PowerShell e segurança em armazenamento.
+* 🖥️ **Home Lab(er):** Mantenho um laboratório de infraestrutura próprio para testes contínuos de Active Directory, automação via PowerShell e segurança em armazenamento.
 
 ### 🧰 Tech Stack e Ferramentas
 
